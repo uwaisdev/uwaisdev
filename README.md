@@ -1,11 +1,19 @@
+[![Header](https://raw.githubusercontent.com/LuciusFox-92/LuciusFox-92/main/readme-banner_.png "Header")](/)
+
+# Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/LuciusFox-92/LuciusFox-92/main/wave.gif" width="30px">
 # 💫About Me :
-👋 Hi, I am Uwais
-🔭 I’m currently studying a BSc IT in Computer Science and Informatics
+
+📚 I’m studying a BSc IT in Computer Science and Informatics
+
+💻 I am a Software Engineer and a Full Stack Developer.
+
 🤝 I’m willing to join and learn on projects in attempting and experimenting with new tech and build new exciting apps that will benefit us all.
+
 🌱 I’m currently learning Cybersecurity and the ever expanding field of Software Engineering 😋
+
 ⚡ Fun fact: I am an F1 enthusiast 🏎 , feel free to pm me and maybe we can have a chat :)
 
-## 🌐Socials
+## 🌐Socials -- Connect with me :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uwais-patel-0092) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@uwais-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Uwais_dev)
 
 # 💻Tech Stack
@@ -15,5 +23,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuciusFox-92&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciusFox-92&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+### ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
