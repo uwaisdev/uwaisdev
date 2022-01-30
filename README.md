@@ -2,6 +2,10 @@
 
 # Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/LuciusFox-92/LuciusFox-92/main/wave.gif" width="30px">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=25&duration=7000&center=true&vCenter=true&width=850&lines=%F0%9F%93%9AStudent+that+loves+to+learn!;%F0%9F%94%A7A+programmer+that+always+wants+to+experiment+with+stuff;%F0%9F%92%BBSoftware+Engineer+that+aspires+to+grow+and+improve+daily;Cybersecurity+Junior+%F0%9F%94%90"></a>
+</p>
+
 
 <div align="left">
 
