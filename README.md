@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/LuciusFox-92/LuciusFox-92/main/readme-banner_.png "Header")](/)
+[![Header](https://raw.githubusercontent.com/Uwais-dev/Uwais-dev/main/readme-banner_.png "Header")](/)
 
-# Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/LuciusFox-92/LuciusFox-92/main/wave.gif" width="30px">
+# Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/Uwais-dev/Uwais-dev/main/wave.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=25&duration=7000&center=true&vCenter=true&width=850&lines=%F0%9F%93%9AStudent+that+loves+to+learn!;%F0%9F%94%A7A+programmer+that+always+wants+to+experiment+with+stuff;%F0%9F%92%BBSoftware+Engineer+that+aspires+to+grow+and+improve+daily;Cybersecurity+Junior+%F0%9F%94%90"></a>
@@ -46,9 +46,9 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=LuciusFox-92&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuciusFox-92&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciusFox-92&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Uwais-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Uwais-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uwais-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ### ✍️
