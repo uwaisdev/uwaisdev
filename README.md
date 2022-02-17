@@ -20,7 +20,7 @@
 
 📚 I’m studying a BSc IT in Computer Science and Informatics
 
-💻 I am a Software Engineer and a Full Stack Developer.
+💻 Software Engineer || Full Stack Dev :).
 
 🤝 I’m willing to join and learn on projects in attempting and experimenting with new tech and build new exciting apps that will benefit us all.
 
