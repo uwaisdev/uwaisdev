@@ -24,9 +24,9 @@
 
 🤝 I’m willing to join and learn on projects in attempting and experimenting with new tech and build new exciting apps that will benefit us all.
 
-🌱 I’m currently learning Cybersecurity and the ever expanding field of Software Engineering 😋
+🌱 I’m currently learning Cybersecurity as well as the ever expanding field of Software Engineering 😋
 
-⚡ Fun fact: I am an F1 enthusiast 🏎 , feel free to pm me and maybe we can have a chat :)
+⚡ Fun fact: I am an F1 enthusiast 🏎 , please feel free to pm me and maybe we can have a chat and connect :)
 
 
 <br/>
