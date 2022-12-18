@@ -18,7 +18,7 @@
 
 # 💫About Me :
 
-📚 I’m studying a BSc IT in Computer Science and Informatics
+📚 BSc IT in Computer Science and Informatics
 
 💻 Software Engineer || Full Stack Dev :).
 
