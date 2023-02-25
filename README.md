@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/readme-banner_.png "Header")](/)
+[![Header](https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/new-banner.png "Header")](/)
 
 # Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">
 
