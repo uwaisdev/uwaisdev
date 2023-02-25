@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Uwais-dev/Uwais-dev/main/readme-banner_.png "Header")](/)
+[![Header](https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/readme-banner_.png "Header")](/)
 
-# Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/Uwais-dev/Uwais-dev/main/wave.gif" width="30px">
+# Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=25&duration=7000&center=true&vCenter=true&width=850&lines=%F0%9F%93%9AStudent+that+loves+to+learn!;%F0%9F%94%A7A+programmer+that+always+wants+to+experiment+with+stuff;%F0%9F%92%BBSoftware+Engineer+that+aspires+to+grow+and+improve+daily;Cybersecurity+Junior+%F0%9F%94%90"></a>
@@ -18,11 +18,13 @@
 
 # 💫About Me :
 
-📚 BSc IT in Computer Science and Informatics
+🎓 BSc IT in Computer Science and Informatics (Cum Laude)
+
+📚 Current: BScHons Information Technology
 
 💻 Software Engineer || Full Stack Dev :).
 
-🤝 I’m willing to join and learn on projects in attempting and experimenting with new tech and build new exciting apps that will benefit us all.
+🤝 I’m willing to join projects in attempting and experimenting with new tech and build new exciting apps that will benefit us all.
 
 🌱 I’m currently learning Cybersecurity as well as the ever expanding field of Software Engineering 😋
 
