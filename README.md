@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/new-banner.png "Header")](/)
 
-# Hello there 😁, I am Uwais <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px"> I am glad you're viewing this page.
+# Hello there 😁, I am Uwais <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">, and I am glad you're viewing this page.
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58F725&center=true&vCenter=true&width=435&lines=Information+Security;Artificial+Intelligence;Formula+1;Explore;Debugging;Breaking;Patching;Testing;Deploying;Waiting...;Repeat+%F0%9F%99%83" alt="Typing SVG" /></a>
