@@ -24,9 +24,9 @@
 
 # 💫About Me :
 
-🎓 BSc IT in Computer Science and Informatics (Cum Laude)
+🎓 BSc IT in Computer Science and Informatics
 
-📚 Current: BScHons Information Technology
+📚 Current: BScHons Information Technology -> Computer Science (Information Security and AI)
 
 💻 Software Engineer || Full Stack Dev :).
 
