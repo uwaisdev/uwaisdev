@@ -26,7 +26,7 @@
 
 🎓 BSc IT in Computer Science and Informatics
 
-📚 Current: BScHons Information Technology -> Computer Science (Information Security and AI)
+📚 Current: BScHons Information Technology -> (Computer Science, Information Security and AI)
 
 💻 Software Engineer || Full Stack Dev :).
 
