@@ -11,9 +11,12 @@
 
 <a href="https://app.daily.dev/LuciusFox92" target="_blank">
     <img 
-        src="https://api.daily.dev/devcards/a9a09606cb8e4742a40a6fd178e9906a.png?r=ra3" width="256" align="right" alt="Uwais Patel's Dev Card"/>
+        src="https://api.daily.dev/devcards/a9a09606cb8e4742a40a6fd178e9906a.png?r=wdq" width="256" align="right" alt="Uwais Patel's Dev Card"/>
     </a>
 </div>
+
+<!--https://api.daily.dev/devcards/a9a09606cb8e4742a40a6fd178e9906a.png?r=ra3-->
+
 
 
 # 💫About Me :
