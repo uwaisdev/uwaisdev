@@ -3,8 +3,11 @@
 # Howdy, I am Uwais 😎! <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=25&duration=7000&center=true&vCenter=true&width=850&lines=%F0%9F%93%9AStudent+that+loves+to+learn!;%F0%9F%94%A7A+programmer+that+always+wants+to+experiment+with+stuff;%F0%9F%92%BBSoftware+Engineer+that+aspires+to+grow+and+improve+daily;Cybersecurity+Junior+%F0%9F%94%90"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F725&center=true&vCenter=true&width=435&lines=Information+Security;Artificial+Intelligence;Formula+1;Explore;Debug" alt="Typing SVG" /></a>
 </p>
+
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=25&duration=7000&center=true&vCenter=true&width=850&lines=%F0%9F%93%9AStudent+that+loves+to+learn!;%F0%9F%94%A7A+programmer+that+always+wants+to+experiment+with+stuff;%F0%9F%92%BBSoftware+Engineer+that+aspires+to+grow+and+improve+daily;Cybersecurity+Junior+%F0%9F%94%90"></a> -->
+
 
 
 <div align="left">
